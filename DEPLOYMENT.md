@@ -82,6 +82,8 @@ Expand the **Environment Variables** section and add:
 ### Step 4: Deploy
 Click **Deploy**. Vercel will build your Next.js application and assign it a public URL (e.g., `https://quiz-ai-frontend.vercel.app`).
 
+
+https://quiz-ai-tt9h.vercel.app/
 ---
 
 ## Part 4: Final Connection (CORS Update)
